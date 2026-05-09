@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Mac OS Junk
+.DS_Store
+
+# Streamlit/UI Cache
+.streamlit/
